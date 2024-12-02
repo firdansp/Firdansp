@@ -8,8 +8,7 @@ Hi, I’m Computer Engineering graduate who has passionate professional in Cyber
 -
 * 🔭 I’m currently working on Punggawa Cybersecurity
 * 🌱 I’m currently learning Blue Team and Red Team.
-* 👯 I’m looking to collaborate on OpenSource Projects
-* 👨‍💻 All of my projects are available at My Portfolio
+* 👨‍💻 I’m looking to collaborate on OpenSource Projects
 * 📫 How to reach me on LinkedIn @firdansp
 
  💻 Tools & Monitoring
