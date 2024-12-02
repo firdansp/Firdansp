@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ====================================================================================================================================
 
 
-Hi, I’m passionate professional in Cybersecurity and Technology. With a strong focus on Security Awareness, Incident Response, and Security Analysis, I am driven by the opportunity to continuously learn and grow through new experiences.
+Hi, I’m Computer Engineering graduate who has passionate professional in Cybersecurity and Technology. With a strong focus on Security Awareness, Incident Response, and Security Analysis, I am driven by the opportunity to continuously learn and grow through new experiences.
 
 🙋‍♂️ About Me
 -
@@ -12,7 +12,7 @@ Hi, I’m passionate professional in Cybersecurity and Technology. With a strong
 👨‍💻 All of my projects are available at My Portfolio
 📫 How to reach me on LinkedIn @firdansp
 
-💻 Tools & Monitoring
+ 💻 Tools & Monitoring
 -
 SIEM
 Firewall
@@ -22,10 +22,9 @@ Endpoint Detection and Response
 Network Forensic
 Antivirus
 
-Connect with me
+Connect With Me
 -
-![Linkedin](/linkedin.png)
-dan medium 
+<p align="left"> <a href="https://www.github.com/firdansp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/firdansp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@firdansp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a> </p>
 
 
 <!--
