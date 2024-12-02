@@ -6,12 +6,12 @@ Hi, I’m Computer Engineering graduate who has passionate professional in Cyber
 
 🙋‍♂️ About Me
 -
-* 🔭 I’m currently working on Punggawa Cybersecurity
-* 🌱 I’m currently learning Blue Team and Red Team.
-* 👨‍💻 I’m looking to collaborate on OpenSource Projects
+* 👩🏻‍💻 I’m currently working on Punggawa Cybersecurity
+* 🧠 I’m currently learning Blue Team and Red Team.
+* 🤝 I’m looking to collaborate on OpenSource Projects
 * 📧 You can contact me at **[LinkedIn](https://www.linkedin.com/in/firdansp)**
 
- 💻 Tools & Monitoring
+💻 Tools & Monitoring
 -
 * SIEM
 * Firewall
@@ -25,18 +25,8 @@ Connect With Me
 -
 <p align="left"> <a href="https://www.github.com/firdansp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/firdansp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@firdansp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a> </p>
 
+### Badges
 
-<!--
-**firdansp/Firdansp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<b>My GitHub Stats</b>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="http://www.github.com/firdansp"><img src="https://github-readme-stats.vercel.app/api?username=firdansp&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="firdansp's GitHub stats" /></a>
