@@ -6,7 +6,7 @@ Hi, I’m Computer Engineering graduate who has passionate professional in Cyber
 
 🙋‍♂️ About Me
 -
-🔭 I’m currently working on Punggawa Cybersecurity 
+🔭 I’m currently working on Punggawa Cybersecurity
 🌱 I’m currently learning Blue Team and Red Team.
 👯 I’m looking to collaborate on OpenSource Projects
 👨‍💻 All of my projects are available at My Portfolio
@@ -14,13 +14,13 @@ Hi, I’m Computer Engineering graduate who has passionate professional in Cyber
 
  💻 Tools & Monitoring
 -
-SIEM
-Firewall
-Identity and Access Management (IAM)
-Endpoint Management and Security
-Endpoint Detection and Response
-Network Forensic
-Antivirus
+* SIEM
+* Firewall
+* Identity and Access Management (IAM)
+* Endpoint Management and Security
+* Endpoint Detection and Response
+* Network Forensic
+* Antivirus
 
 Connect With Me
 -
